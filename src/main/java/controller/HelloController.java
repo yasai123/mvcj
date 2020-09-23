@@ -14,7 +14,7 @@ public class HelloController {
 
     @RequestMapping(path = "/hello")
     public String Hello(){
-        System.out.println("Hell SpringMVC");
+        System.out.println("Hell SpringMVC0000");
         return "index";
     }
 }
