@@ -16,7 +16,7 @@ public class HelloController {
     public String Hello(){
         System.out.println("编辑好了，我是第二次修改的内容");
         System.out.println("我是新增加的内容");
-        System.out.println("又增加了点东西");
+        System.out.println("2222222222222222");
         return "index";
     }
 }
