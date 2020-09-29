@@ -14,7 +14,7 @@ public class HelloController {
 
     @RequestMapping(path = "/hello")
     public String Hello(){
-        System.out.println("1111二次修改的内容");
+        System.out.println("编辑好了，我是第二次修改的内容");
         System.out.println("22222222222222222容");
         System.out.println("又增加了点东西");
         return "index";
